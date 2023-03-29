@@ -1,2 +1,2 @@
-print{"Hello"}
-print{2}
+print("Hello")
+print(3)
